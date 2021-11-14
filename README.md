@@ -1,2 +1,2 @@
 # cheatsheets
-im lazy-
+im lazy
